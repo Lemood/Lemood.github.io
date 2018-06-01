@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Default" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1190.6 1094.9" style="enable-background:new 0 0 1190.6 1094.9;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:#FF0000;}
+	.st2{fill:#862222;}
+	.st3{font-family:'FuturaPRO-Medium';}
+	.st4{font-size:36.1043px;}
+	.st5{fill:#2F2F87;}
+	.st6{font-size:35.9632px;}
+	.st7{fill:none;stroke:#231F20;stroke-miterlimit:10;}
+	.st8{fill:none;}
+	.st9{font-family:'FuturaPRO-Book';}
+	.st10{font-size:48px;}
+</style>
+<text transform="matrix(1 0 0 1 805.5884 582.1282)" class="st2 st3 st4">Module Bluetooth</text>
+<text transform="matrix(1 0 0 1 822.6743 861.9324)" class="st2 st3 st4">Batterie</text>
+<text transform="matrix(1 0 0 1 187.0893 201.075)" class="st2 st3 st4">Arduino</text>
+<text transform="matrix(1 0 0 1 500.8926 1005.7522)" class="st5 st3 st4">USB</text>
+<text transform="matrix(1 0 0 1 391.3809 524.2786)" class="st5 st3 st4">Port 21</text>
+<text transform="matrix(1 0 0 1 391.3809 395.5061)" class="st5 st3 st4">Port 23</text>
+<text transform="matrix(1 0 0 1 769.4028 304.054)" class="st5 st3 st4">Entrée RGB</text>
+<text transform="matrix(1.0039 0 0 1 796.0142 669.8625)" class="st5 st3 st6">Entrée R4</text>
+<text transform="matrix(1 0 0 1 101.1914 836.9641)" class="st5 st3 st4">Mini-USB</text>
+<text transform="matrix(1 0 0 1 865.2251 226.052)" class="st2 st3 st4">Module LED</text>
+<rect x="121.1" y="245.4" class="st7" width="245.5" height="545.2"/>
+<rect x="958.8" y="274.3" class="st7" width="88.5" height="88.5"/>
+<rect x="958.8" y="628.1" class="st7" width="107.9" height="107.9"/>
+<rect x="584.4" y="903.5" class="st7" width="482.3" height="115.5"/>
+<path class="st7" d="M978,318.5c0,0-187.9,0-268.2,0s4.3,96.5-93.5,96.5s-294.2,0-294.2,0"/>
+<path class="st7" d="M978,682c0,0-187.9,0-268.2,0s4.3-199.8-93.5-199.8s-294.2,0-294.2,0"/>
+<circle class="st7" cx="322.1" cy="482.2" r="8.4"/>
+<circle class="st7" cx="322.1" cy="515.9" r="8.4"/>
+<circle class="st7" cx="322.1" cy="415" r="8.4"/>
+<circle class="st7" cx="322.1" cy="448.6" r="8.4"/>
+<circle class="st7" cx="977.6" cy="318.5" r="8.4"/>
+<circle class="st7" cx="322.1" cy="616.7" r="8.4"/>
+<circle class="st7" cx="322.1" cy="650.3" r="8.4"/>
+<circle class="st7" cx="322.1" cy="549.5" r="8.4"/>
+<circle class="st7" cx="322.1" cy="583.1" r="8.4"/>
+<circle class="st7" cx="978" cy="681.3" r="8.4"/>
+<path class="st7" d="M260.1,809.5c0,0,0,77,0,97.7s-5.8,54,50,54s253.3,0,253.3,0"/>
+<rect x="67" y="36.4" class="st8" width="1040.4" height="51.3"/>
+<text transform="matrix(1 0 0 1 66.9687 75.9629)" class="st9 st10">Plan montage électrique</text>
+</svg>
