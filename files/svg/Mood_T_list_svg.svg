@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Default" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1190.6 789" style="enable-background:new 0 0 1190.6 789;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;}
+	.st1{fill:#FF0000;}
+	.st2{fill:none;stroke:#231F20;stroke-miterlimit:10;}
+	.st3{fill:none;}
+	.st4{font-family:'FuturaPRO-Book';}
+	.st5{font-size:40px;}
+	.st6{font-size:48px;}
+</style>
+<rect x="123.2" y="180.4" class="st3" width="944.1" height="581.6"/>
+<text transform="matrix(1 0 0 1 123.2126 213.3925)"><tspan x="0" y="0" class="st4 st5">Arduino-nano</tspan><tspan x="0" y="96" class="st4 st5">Module bluetooth hc 05</tspan><tspan x="0" y="192" class="st4 st5">Led RGB avec resistance</tspan><tspan x="0" y="288" class="st4 st5">Batterie externe (type batterie externe pour téléphone)</tspan><tspan x="0" y="384" class="st4 st5">2 paires de 4 fils Dupont</tspan><tspan x="0" y="480" class="st4 st5">Un cable USB à Micro-USB</tspan></text>
+<rect x="31" y="36.4" class="st3" width="1040.4" height="51.3"/>
+<text transform="matrix(1 0 0 1 30.9761 75.963)" class="st4 st6">Liste éléments</text>
+</svg>
